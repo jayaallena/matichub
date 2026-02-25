@@ -1,5 +1,5 @@
-project = 'duckduckgo-login'
-author = 'duckduckgo-login'
+project = 'pc matic'
+author = 'pc matic'
 release = '1.0'
 
 # Extensions
