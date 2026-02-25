@@ -1,7 +1,5 @@
-.. container:: boxed
-
-   How to Reach PC Matic Customer Service | Get Help Support Anytime
-   ==================================================================
+How to Reach PC Matic Customer Service | Get Help Support Anytime
+==================================================================
 
    .. contents::
       :local:
